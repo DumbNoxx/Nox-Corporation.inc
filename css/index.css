@@ -1,5 +1,6 @@
 .about{
-	align:center;
-	border:solid;
-	border-radius: 100px;
+	padding: 1em;
+	border: 1px solid black;
+	border-radius: 5px;
+	text-align: center;
 }
