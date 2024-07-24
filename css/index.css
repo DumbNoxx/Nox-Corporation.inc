@@ -1,6 +1,6 @@
 .about{
 	padding: 1px;
-	border: 1px solid black;
+	border: solid;
 	border-radius: 5px;
 	text-align: center;
 }
