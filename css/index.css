@@ -1,6 +1,5 @@
 body{
 	background-image: url("/images/1331312.png");
-	background-color:#EBDEF0;
 }
 
 #about{
@@ -8,4 +7,5 @@ body{
 	border: solid;
 	border-radius: 20px;
 	text-align:center;
+	background-color: #EBDEF0;
 }
